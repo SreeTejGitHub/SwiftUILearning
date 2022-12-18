@@ -13,6 +13,7 @@
 		3A241ADB294F754C00749669 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A241ADA294F754C00749669 /* Preview Assets.xcassets */; };
 		3A241AE2294F788400749669 /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AE1294F788400749669 /* HelloWorld.swift */; };
 		3A241AE4294F7C0300749669 /* GameWithSpriteKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AE3294F7C0300749669 /* GameWithSpriteKit.swift */; };
+		3A241AE6294F840700749669 /* PickAColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AE5294F840700749669 /* PickAColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3A241ADA294F754C00749669 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3A241AE1294F788400749669 /* HelloWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorld.swift; sourceTree = "<group>"; };
 		3A241AE3294F7C0300749669 /* GameWithSpriteKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameWithSpriteKit.swift; sourceTree = "<group>"; };
+		3A241AE5294F840700749669 /* PickAColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickAColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				3A241AD2294F754B00749669 /* SwiftUILearningApp.swift */,
 				3A241AD4294F754B00749669 /* MapView.swift */,
+				3A241AE5294F840700749669 /* PickAColorView.swift */,
 				3A241AE3294F7C0300749669 /* GameWithSpriteKit.swift */,
 				3A241AE1294F788400749669 /* HelloWorld.swift */,
 				3A241AD6294F754C00749669 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			files = (
 				3A241AE2294F788400749669 /* HelloWorld.swift in Sources */,
 				3A241AD5294F754B00749669 /* MapView.swift in Sources */,
+				3A241AE6294F840700749669 /* PickAColorView.swift in Sources */,
 				3A241AD3294F754B00749669 /* SwiftUILearningApp.swift in Sources */,
 				3A241AE4294F7C0300749669 /* GameWithSpriteKit.swift in Sources */,
 			);

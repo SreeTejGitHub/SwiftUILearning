@@ -15,7 +15,7 @@ struct SwiftUILearningApp: App {
                 HelloWorld()
                 MapView()
                 GameWithSpriteKit()
-                MapView()
+                PickAColorView()
                 MapView()
             }
             .tabViewStyle(PageTabViewStyle())
