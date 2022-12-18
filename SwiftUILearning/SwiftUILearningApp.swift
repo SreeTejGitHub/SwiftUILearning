@@ -16,7 +16,7 @@ struct SwiftUILearningApp: App {
                 MapView()
                 GameWithSpriteKit()
                 PickAColorView()
-                MapView()
+                ProgressViewScreen()
             }
             .tabViewStyle(PageTabViewStyle())
             .indexViewStyle(PageIndexViewStyle(backgroundDisplayMode: .always))
