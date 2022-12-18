@@ -14,7 +14,7 @@ struct SwiftUILearningApp: App {
             TabView {
                 HelloWorld()
                 MapView()
-                MapView()
+                GameWithSpriteKit()
                 MapView()
                 MapView()
             }
