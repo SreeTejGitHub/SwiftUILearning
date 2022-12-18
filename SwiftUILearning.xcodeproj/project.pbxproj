@@ -11,6 +11,7 @@
 		3A241AD5294F754B00749669 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AD4294F754B00749669 /* MapView.swift */; };
 		3A241AD7294F754C00749669 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A241AD6294F754C00749669 /* Assets.xcassets */; };
 		3A241ADB294F754C00749669 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A241ADA294F754C00749669 /* Preview Assets.xcassets */; };
+		3A241AE2294F788400749669 /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AE1294F788400749669 /* HelloWorld.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3A241AD6294F754C00749669 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A241AD8294F754C00749669 /* SwiftUILearning.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUILearning.entitlements; sourceTree = "<group>"; };
 		3A241ADA294F754C00749669 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3A241AE1294F788400749669 /* HelloWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorld.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3A241AD2294F754B00749669 /* SwiftUILearningApp.swift */,
 				3A241AD4294F754B00749669 /* MapView.swift */,
+				3A241AE1294F788400749669 /* HelloWorld.swift */,
 				3A241AD6294F754C00749669 /* Assets.xcassets */,
 				3A241AD8294F754C00749669 /* SwiftUILearning.entitlements */,
 				3A241AD9294F754C00749669 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A241AE2294F788400749669 /* HelloWorld.swift in Sources */,
 				3A241AD5294F754B00749669 /* MapView.swift in Sources */,
 				3A241AD3294F754B00749669 /* SwiftUILearningApp.swift in Sources */,
 			);

@@ -11,7 +11,15 @@ import SwiftUI
 struct SwiftUILearningApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabView {
+                HelloWorld()
+                MapView()
+                MapView()
+                MapView()
+                MapView()
+            }
+            .tabViewStyle(PageTabViewStyle())
+            .indexViewStyle(PageIndexViewStyle(backgroundDisplayMode: .always))
         }
     }
 }
