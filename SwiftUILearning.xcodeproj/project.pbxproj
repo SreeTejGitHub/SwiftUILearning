@@ -15,6 +15,7 @@
 		3A241AE4294F7C0300749669 /* GameWithSpriteKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AE3294F7C0300749669 /* GameWithSpriteKit.swift */; };
 		3A241AE6294F840700749669 /* PickAColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AE5294F840700749669 /* PickAColorView.swift */; };
 		3A241AE8294FDB4600749669 /* ProgressViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AE7294FDB4600749669 /* ProgressViewScreen.swift */; };
+		3A241AEB294FDDB000749669 /* BookmarkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A241AEA294FDDB000749669 /* BookmarkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3A241AE3294F7C0300749669 /* GameWithSpriteKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameWithSpriteKit.swift; sourceTree = "<group>"; };
 		3A241AE5294F840700749669 /* PickAColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickAColorView.swift; sourceTree = "<group>"; };
 		3A241AE7294FDB4600749669 /* ProgressViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewScreen.swift; sourceTree = "<group>"; };
+		3A241AEA294FDDB000749669 /* BookmarkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				3A241AE7294FDB4600749669 /* ProgressViewScreen.swift */,
 				3A241AE3294F7C0300749669 /* GameWithSpriteKit.swift */,
 				3A241AE1294F788400749669 /* HelloWorld.swift */,
+				3A241AEA294FDDB000749669 /* BookmarkView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A241AE2294F788400749669 /* HelloWorld.swift in Sources */,
+				3A241AEB294FDDB000749669 /* BookmarkView.swift in Sources */,
 				3A241AD5294F754B00749669 /* MapView.swift in Sources */,
 				3A241AE6294F840700749669 /* PickAColorView.swift in Sources */,
 				3A241AE8294FDB4600749669 /* ProgressViewScreen.swift in Sources */,

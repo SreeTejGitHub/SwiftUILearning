@@ -12,6 +12,7 @@ struct SwiftUILearningApp: App {
     var body: some Scene {
         WindowGroup {
             TabView {
+                BookmarkView()
                 HelloWorld()
                 MapView()
                 GameWithSpriteKit()
